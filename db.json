@@ -1,3 +1,22 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": "What do I plan to do later today?",
+      "id": "fdd9dabc-e8c9-44b5-ad4a-bea2bb14aa0a",
+      "createdAt": "2025-06-26T02:27:05.106Z"
+    },
+    {
+      "role": "user",
+      "content": "What do I plan to do later today?",
+      "id": "cbde377f-05a8-4729-9494-b5d8496e88d6",
+      "createdAt": "2025-06-26T02:29:32.331Z"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure what you have planned for later today. You might want to check your calendar or to-do list for any scheduled activities or tasks. If you need help organizing your plans, feel free to share what you have in mind!",
+      "id": "64a941a2-b160-4dec-a542-67c22ac51e4c",
+      "createdAt": "2025-06-26T02:29:33.671Z"
+    }
+  ]
 }
